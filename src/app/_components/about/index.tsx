@@ -35,7 +35,7 @@ export function About() {
                             Sobre
                         </h1>
 
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat, recusandae? Sapiente quam ullam amet a, officiis quis quasi eaque in, minus vero facere, delectus dolorem aliquam dolorum veritatis atque laboriosam?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint fugit, consectetur, aspernatur sed aperiam quasi voluptatibus maiores minus laudantium nobis itaque fuga et sapiente dolores aliquid illo incidunt libero nulla!</p>
+                        <p>Bem-vindo ao Patas de Ouro, o lugar onde seu pet é tratado como parte da família! Oferecemos produtos de qualidade, serviços personalizados e muito carinho para garantir o bem-estar do seu melhor amigo. Venha nos visitar e descubra como podemos cuidar do seu pet com amor e dedicação. Aqui, felicidade tem patas!</p>
 
 
                         <ul className="mt-10 mb-3 flex flex-col gap-6">
